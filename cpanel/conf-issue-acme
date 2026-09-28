@@ -1,0 +1,6 @@
+# nginx or apache2
+WEBSERVER=""
+DOMAIN="subdomain"
+CP_APITOKEN=""
+CP_USERNAME="username_cpnel"
+CP_HOSTNAME="https://domain:2083"

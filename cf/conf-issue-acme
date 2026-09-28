@@ -1,0 +1,6 @@
+# nginx or apache2
+WEBSERVER=""
+DOMAIN="subdomain"
+CF_EMAIL="email@example.com"
+CF_TOKEN=
+CF_ACN_ID=
